@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-import random #for generating random nubers to simulate the dice's roll
+import random #for generating random numbers to simulate the dice's roll
 import sys #for managing command line arguments
 
 __author__ = "AsaiAshita"
