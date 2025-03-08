@@ -14,8 +14,8 @@ If you provide a command line argument, the program accepts only the following o
 
 # Is it possible to complete a simulation?
 As said before, the probability of this happening is very small, and it is also not helped by the fact that computers can generate only pseudo-random numbers and not truly random ones, which can either influence negatively or positively the probability of success.
-If you ask for my opinion, this program will never end - or, better, I belive either the program will crash at a certain point or, in any case, it will not halt before the number of turns gets subject to an integer overflow -, but you are free to try it for yourselves.
-By the way, the highest position reached by the few tests that I did was 17, if someone cares about it (it reached it in approximately an hour)
+If you ask for my opinion, this program will never end - or, better, I believe either the program will crash at a certain point or, in any case, it will not halt before the number of turns gets subject to an integer overflow -, but you are free to try it for yourselves.
+By the way, the highest position reached by the few tests that I did was 17, if someone cares about it (it reached it in approximately an hour).
 
 # Why did you make such a silly program?
 ...No comment.
