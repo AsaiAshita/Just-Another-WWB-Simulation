@@ -2,7 +2,7 @@
 A simple simulation written in Python of "W.W.B.", acronym for "World's Worst Boardgame" (more info at: https://boardgamegeek.com/boardgame/99918/wwb), which permits you to simulate a single-player scenario and a two player one.
 
 # What is W.W.B.?
-W.W.B, an acronym for "World's Worst Boardgame", is a boardgame releaed in 2011 and one of the lowest rated boardgames on BoardGameGeek (https://boardgamegeek.com/boardgame/99918/wwb). Thought to be, as the name suggests, one of the worst boardgames ever made, this game is almost impossible to finish, as it requires you to roll a 5 for 202 consecutive times in order to arrive at the finish line (for a probability of (1/6)^202. which is just a bit of a small number). If you are interested in knowing all the (simple) rules of this game, you can tak a look at the previously provided link.
+W.W.B, an acronym for "World's Worst Boardgame", is a boardgame releaed in 2011 and one of the lowest rated boardgames on BoardGameGeek (https://boardgamegeek.com/boardgame/99918/wwb). Thought to be, as the name suggests, one of the worst boardgames ever made, this game is almost impossible to finish, as it requires you to roll a 5 for 202 consecutive times in order to arrive at the finish line (for a probability of (1/6)^202. which is just a bit of a small number). If you are interested in knowing all the (simple) rules of this game, you can take a look at the previously provided link.
 
 # Usage
 The provided file can be executed in two ways: by giving it a command line argument or none.
